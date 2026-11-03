@@ -1,0 +1,4 @@
+in/coderarmy/gatekeeper/management/ApiManagementServiceApplication.class
+in/coderarmy/gatekeeper/management/dto/responseDto/HealthResponse.class
+in/coderarmy/gatekeeper/management/config/SecurityConfig.class
+in/coderarmy/gatekeeper/management/controller/HealthController.class
